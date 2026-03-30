@@ -5,9 +5,9 @@ The primary challenge addressed here is the extreme class imbalance inherent in 
 ## 🚀 Key Features
 + Advanced Feature Engineering: Scaled features using StandardScaler to handle outliers effectively.
 + Multiple Model Implementation:
-  . Isolation Forest for unsupervised anomaly detection.
-  . Autoencoders (Deep Learning) for reconstructing normal patterns and flagging deviations.
-  . Performance Metrics: Focused on F1_Score, ROC_AUC Score and Confusion Matrix rather than simple accuracy to ensure fraud is actually caught.
+  1. Isolation Forest for unsupervised anomaly detection.
+  2. Autoencoders (Deep Learning) for reconstructing normal patterns and flagging deviations.
+  3. Performance Metrics: Focused on F1_Score, ROC_AUC Score and Confusion Matrix rather than simple accuracy to ensure fraud is actually caught.
 ## 🛠️ Tech Stack
 + Language: Python 3.x
 + Data Science: Pandas, NumPy, Scikit-learn.
